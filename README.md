@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  👋 Bem-vindo(a) ao meu espaço dedicado a <b>estudos, exercícios e projetos práticos!</b>
+  👋 Bem-vindo(a) ao meu espaço dedicado a <b>estudos, exercícios!</b>
   <br>
   Este repositório serve como meu caderno digital e portfólio de aprendizado, focado principalmente em desenvolvimento Java.
 </p>
